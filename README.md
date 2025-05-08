@@ -1,5 +1,7 @@
 # Instacart Market Analysis
 
+![Image](assets/segmen.png)
+
 ## Description
 
 Ce projet utilise le **dataset Kaggle Instacart Market Analysis** pour explorer et analyser les comportements d'achat des clients d'Instacart. L'objectif est de fournir des insights sur les habitudes d'achat, d'identifier les produits populaires et d'examiner les tendances d'achat des utilisateurs.
