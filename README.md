@@ -8,7 +8,7 @@ Ce projet utilise le **dataset Kaggle Instacart Market Analysis** pour explorer 
 
 ### Dataset
 
-Le dataset est disponible sur Kaggle : [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis).
+Le dataset est disponible sur Kaggle : [Instacart Market Basket Analysis](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data).
 
 Le dataset contient plusieurs fichiers CSV :
 
