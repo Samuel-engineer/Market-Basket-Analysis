@@ -1,4 +1,4 @@
-# Instacart Market Analysis (To Improve)
+# Instacart Market Analysis (Analyze To Improve)
 
 ![Image](assets/segmen.png)
 
